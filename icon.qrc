@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>restart.png</file>
+        <file>shutdown.png</file>
+        <file>sleep.png</file>
+        <file>lock.png</file>
+        <file>card.png</file>
+        <file>ccard.png</file>
+        <file>cpu.png</file>
+        <file>dcard.png</file>
+        <file>head.png</file>
+        <file>folder.png</file>
+        <file>bilibili.png</file>
+        <file>music.png</file>
+        <file>GitHub.png</file>
+        <file>computer.png</file>
+        <file>terminal.png</file>
+        <file>network.png</file>
+    </qresource>
+    <qresource prefix="/weather">
+        <file>weather/cloud.png</file>
+        <file>weather/fog.png</file>
+        <file>weather/morecloud.png</file>
+        <file>weather/quest.png</file>
+        <file>weather/rain.png</file>
+        <file>weather/snow.png</file>
+        <file>weather/sun.png</file>
+        <file>weather/wind.png</file>
+        <file>weather/cloudy.png</file>
+        <file>weather/bigrain.png</file>
+        <file>weather/bigsnow.png</file>
+        <file>weather/dust.png</file>
+    </qresource>
+</RCC>
